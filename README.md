@@ -15,7 +15,7 @@
 - upload_docker.sh : to upload docker image to the docker hub
 - Jenkinsfile : to define and work with pipelines
 - Makefile: to install hadolint and lint dockerfile
-- clusers/: 
+- clusters/: 
      1. config.yaml : creation of a cluster file
      2. deploy.yaml : deployment file
 - app.py: a project that will render html file on the default home route
